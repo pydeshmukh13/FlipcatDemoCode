@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-10T08:05:04Z" name="Flipcart automtion regression suite" finished-at="2021-07-10T08:05:13Z" duration-ms="8744">
+    <groups>
+    </groups>
+    <test started-at="2021-07-10T08:05:04Z" name="FlipCartLoginPage Test" finished-at="2021-07-10T08:05:13Z" duration-ms="8744">
+      <class name="com.qa.flipcart.test.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.flipcart.test.LoginPageTest@7c1e2a9e]" started-at="2021-07-10T08:05:04Z" name="setUp" finished-at="2021-07-10T08:05:12Z" duration-ms="7788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="DoLoginTest()[pri:0, instance:com.qa.flipcart.test.LoginPageTest@7c1e2a9e]" started-at="2021-07-10T08:05:12Z" name="DoLoginTest" finished-at="2021-07-10T08:05:12Z" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoLoginTest -->
+        <test-method signature="verifyFlipcartLogoIsExistTest()[pri:0, instance:com.qa.flipcart.test.LoginPageTest@7c1e2a9e]" started-at="2021-07-10T08:05:12Z" name="verifyFlipcartLogoIsExistTest" finished-at="2021-07-10T08:05:12Z" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlipcartLogoIsExistTest -->
+        <test-method signature="verifyForgotLinkExistTest()[pri:0, instance:com.qa.flipcart.test.LoginPageTest@7c1e2a9e]" started-at="2021-07-10T08:05:12Z" name="verifyForgotLinkExistTest" finished-at="2021-07-10T08:05:12Z" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotLinkExistTest -->
+        <test-method signature="verifyLoginPageTitleTest()[pri:0, instance:com.qa.flipcart.test.LoginPageTest@7c1e2a9e]" started-at="2021-07-10T08:05:12Z" name="verifyLoginPageTitleTest" finished-at="2021-07-10T08:05:12Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.flipcart.test.LoginPageTest@7c1e2a9e]" started-at="2021-07-10T08:05:12Z" name="tearDown" finished-at="2021-07-10T08:05:13Z" duration-ms="670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.flipcart.test.LoginPageTest -->
+    </test> <!-- FlipCartLoginPage Test -->
+  </suite> <!-- Flipcart automtion regression suite -->
+</testng-results>
